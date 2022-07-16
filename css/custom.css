@@ -1,13 +1,19 @@
 body,
 html {
-    font-family: "Roboto", sans-serif; ;
+  font-family: "Roboto", sans-serif;
 }
 
-#custom-cards{
-    height: calc(100vh - 93.5px);
-    background: url('../images/images4.jpg');
-    background-position: center;
-    background-size: cover;
+#custom-cards {
+  height: calc(100vh - 93.5px);
+  background: url("../images/images4.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+.logo {
+  width: 100%;
+  height: 50px;
+  margin: 10px;
 }
 
 /* #header {
